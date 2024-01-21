@@ -6,6 +6,7 @@ import randomIndex from './services/RandomIndex';
 import ButtomPhrase from './components/ButtomPhrase';
 import bgArray from './utils/bgApp.json';
 
+
 function App() {
 /**Se crea dos variables para llamar phrases y bgArray que se encuentra 
  * en las importaciones
