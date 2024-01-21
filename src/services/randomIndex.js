@@ -9,4 +9,7 @@ const RandomIndex = (array) => {
     return array[index]
 }
 
-export default RandomIndex
+export default RandomIndex;
+
+
+
