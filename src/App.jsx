@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import RandomPhrase  from './components/RandomPhrase'
 import phrases from './utils/phrases.json';
-import randomIndex from './services/RandomIndex';
+import randomIndex from './services/randomIndex';
 import ButtomPhrase from './components/ButtomPhrase';
 import bgArray from './utils/bgApp.json';
 

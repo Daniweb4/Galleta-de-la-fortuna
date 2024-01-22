@@ -1,6 +1,6 @@
 import React from 'react';
 import phrases from '../utils/phrases.json';
-import randomIndex from '../services/RandomIndex';
+import randomIndex from '../services/randomIndex';
 import bgArray from '../utils/bgApp.json';
 
 /**El ramdo para la frase y la imagen al dar click */
